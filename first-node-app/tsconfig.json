@@ -13,7 +13,7 @@
       "moduleResolution": "NodeNext",
   
       /* Base directory to resolve non-relative module names */
-      "baseUrl": "./src",
+      "baseUrl": "src",
   
       /* Map imports to additional locations */
       "paths": {},
