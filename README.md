@@ -1,52 +1,53 @@
-Ken Isiaho Projects Repository 
+# Ken Isiaho Projects Repository
 
-Overview 
-This repository contains a collection of my personal software development projects, showcasing various technologies and skills. 
+## Overview
+This repository contains a collection of my personal software development projects, showcasing various technologies and skills.
 
-Projects
-1. First Node App
-Description: A Node.js application demonstrating backend development 
-Technologies: Node.js, TypeScript 
-Key Features:
-Basic server setup 
-TypeScript configuration 
-Modular project structure
+## Projects
 
-2. My Website
-Description: Personal website project 
-Technologies: HTML, CSS, JavaScript 
-Key Features:
-Responsive design 
-Portfolio showcase 
-Interactive elements
+### 1. First Node App
+- **Description**: A Node.js application demonstrating backend development
+- **Technologies**: Node.js, TypeScript
+- **Key Features**:
+  - Basic server setup
+  - TypeScript configuration
+  - Modular project structure
 
-3. First Hono App
-Description: Experimental project with Hono framework 
-Technologies: Hono, TypeScript 
-Key Features:
-Lightweight web framework 
-API development 
-Modern JavaScript practices
+### 2. My Website
+- **Description**: Personal website project
+- **Technologies**: HTML, CSS, JavaScript
+- **Key Features**:
+  - Responsive design
+  - Portfolio showcase
+  - Interactive elements
 
-Development Environment
-Node.js Version: v18+ recommended 
-Package Manager: npm or yarn
+### 3. First Hono App
+- **Description**: Experimental project with Hono framework
+- **Technologies**: Hono, TypeScript
+- **Key Features**:
+  - Lightweight web framework
+  - API development
+  - Modern JavaScript practices
 
-Setup Instructions
-Clone the repository 
-Navigate to individual project directories 
-Install dependencies with npm install 
-Follow specific README instructions in each project folder
+## Development Environment
+- **Node.js Version**: v18+ recommended
+- **Package Manager**: npm or yarn
 
-Future Roadmap
-Add more projects 
-Improve documentation 
-Implement continuous integration
+## Setup Instructions
+1. Clone the repository
+2. Navigate to individual project directories
+3. Install dependencies with `npm install`
+4. Follow specific README instructions in each project folder
 
-Contact
-Name: Ken Isiaho 
-Email: kenisiaho@gmail.com 
-LinkedIn: https://www.linkedin.com/in/ken-wesley/
+## Future Roadmap
+- [ ] Add more projects
+- [ ] Improve documentation
+- [ ] Implement continuous integration
 
-License 
+## Contact
+- **Name**: Ken Isiaho
+- **Email**: kenisiaho@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/ken-wesley/
+
+## License
 This project is open-source. See individual project directories for specific licensing.
